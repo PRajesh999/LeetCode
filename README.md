@@ -29,15 +29,25 @@
 ## String
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/PRajesh999/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PRajesh999/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PRajesh999/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/PRajesh999/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PRajesh999/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PRajesh999/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PRajesh999/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Hash Table
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/PRajesh999/LeetCode/tree/master/0726-number-of-atoms) |
+## Sorting
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/PRajesh999/LeetCode/tree/master/0726-number-of-atoms) |
 <!---LeetCode Topics End-->
