@@ -37,6 +37,7 @@
 | [2502-sort-the-people](https://github.com/PRajesh999/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/PRajesh999/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PRajesh999/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/PRajesh999/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/PRajesh999/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/PRajesh999/LeetCode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRajesh999/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/PRajesh999/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [0948-sort-an-array](https://github.com/PRajesh999/LeetCode/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/PRajesh999/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRajesh999/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/PRajesh999/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Dynamic Programming
 |  |
 | ------- |
