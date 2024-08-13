@@ -7,6 +7,7 @@
 | [0263-ugly-number](https://github.com/PRajesh999/LeetCode/tree/master/0263-ugly-number) |
 | [1642-water-bottles](https://github.com/PRajesh999/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PRajesh999/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/PRajesh999/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [2727-number-of-senior-citizens](https://github.com/PRajesh999/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PRajesh999/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/PRajesh999/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/PRajesh999/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
 | ------- |
