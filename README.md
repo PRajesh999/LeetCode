@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRajesh999/LeetCode/tree/master/0001-two-sum) |
+| [0624-maximum-distance-in-arrays](https://github.com/PRajesh999/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0921-spiral-matrix-iii](https://github.com/PRajesh999/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/PRajesh999/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/PRajesh999/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -71,6 +72,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/PRajesh999/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PRajesh999/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/PRajesh999/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRajesh999/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
