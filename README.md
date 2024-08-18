@@ -32,6 +32,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/PRajesh999/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/PRajesh999/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PRajesh999/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PRajesh999/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/PRajesh999/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/PRajesh999/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/PRajesh999/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -83,6 +84,7 @@
 | [0726-number-of-atoms](https://github.com/PRajesh999/LeetCode/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PRajesh999/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PRajesh999/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PRajesh999/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/PRajesh999/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/PRajesh999/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/PRajesh999/LeetCode/tree/master/2502-sort-the-people) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/PRajesh999/LeetCode/tree/master/0948-sort-an-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PRajesh999/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/PRajesh999/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRajesh999/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/PRajesh999/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
