@@ -34,6 +34,7 @@
 | [1803-average-waiting-time](https://github.com/PRajesh999/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PRajesh999/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PRajesh999/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/PRajesh999/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/PRajesh999/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/PRajesh999/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/PRajesh999/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
