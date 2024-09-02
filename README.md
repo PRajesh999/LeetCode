@@ -24,6 +24,7 @@
 | [0948-sort-an-array](https://github.com/PRajesh999/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/PRajesh999/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/PRajesh999/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRajesh999/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/PRajesh999/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/PRajesh999/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PRajesh999/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PRajesh999/LeetCode/tree/master/0001-two-sum) |
 | [0726-number-of-atoms](https://github.com/PRajesh999/LeetCode/tree/master/0726-number-of-atoms) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRajesh999/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PRajesh999/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PRajesh999/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PRajesh999/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -97,6 +99,7 @@
 | [0726-number-of-atoms](https://github.com/PRajesh999/LeetCode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/PRajesh999/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/PRajesh999/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRajesh999/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PRajesh999/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/PRajesh999/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PRajesh999/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -164,6 +167,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/PRajesh999/LeetCode/tree/master/0948-sort-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRajesh999/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PRajesh999/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/PRajesh999/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRajesh999/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
