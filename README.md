@@ -36,6 +36,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/PRajesh999/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/PRajesh999/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/PRajesh999/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/PRajesh999/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/PRajesh999/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/PRajesh999/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/PRajesh999/LeetCode/tree/master/2502-sort-the-people) |
@@ -103,6 +104,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PRajesh999/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/PRajesh999/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PRajesh999/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/PRajesh999/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2502-sort-the-people](https://github.com/PRajesh999/LeetCode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PRajesh999/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
