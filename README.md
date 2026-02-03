@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/PRajesh999/LeetCode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/PRajesh999/LeetCode/tree/master/0263-ugly-number) |
 | [1642-water-bottles](https://github.com/PRajesh999/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/PRajesh999/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
